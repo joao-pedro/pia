@@ -567,7 +567,7 @@
 				"name": "Impacto máximo"
 			},
 			"PIA_EX_IMPN": {
-				"description": "Os titulares dos dados não serão afetados ou não poderão encontrar alguns inconvenientes, que serão superados sem qualquer problema. Por exemplo:<br>- físico : dores de cabeça transitórias;<br>- material : perda de tempo na repetição de formalidades ou espera pelo preenchimento, recebimento de correspondências não solicitadas (ex .: spams), reutilização de dados publicados em sites para fins de publicidade direcionada, etc.;<br>- moral : mera irritação, sensação de invasão de privacidade sem dano real ou objetivo (invasão comercial), etc.",
+				"description": "Os titulares dos dados não serão afetados ou poderão encontrar alguns inconvenientes, que serão superados sem qualquer problema. Por exemplo:<br>- físico : dores de cabeça transitórias;<br>- material : perda de tempo na repetição de formalidades ou espera pelo preenchimento, recebimento de correspondências não solicitadas (ex .: spams), reutilização de dados publicados em sites para fins de publicidade direcionada, etc.;<br>- moral : mera irritação, sensação de invasão de privacidade sem dano real ou objetivo (invasão comercial), etc.",
 				"name": "Impacto insignificante"
 			},
 			"PIA_EX_NHUM": {
